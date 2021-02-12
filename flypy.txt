@@ -1,5 +1,5 @@
 ;fcitx Version 0x03 Table file
-KeyCode=abcdefghijklmnopqrstuvwxyz;
+KeyCode=abcdefghijklmnopqrstuvwxyz;,.'
 Length=4
 Pinyin=@
 PinyinLength=4
@@ -10,11 +10,11 @@ e2=p11+p12+p21+p22
 e3=p11+p21+p31+p32
 a4=p11+p21+p31+n11
 [Data]
-a	啊
-a	按
+,	啊
+.	按
 aa	阿
 aab	阿坝
-aaba	阿爸
+aaba	阿巴
 aadb	嗷嗷待哺
 aae	阿
 aaek	阿
@@ -39,7 +39,7 @@ aap	阿婆
 aapo	阿婆
 aapp	矮矮胖胖
 aaqq	安安全全
-aavi	AA制
+aavi	AA 制
 aaww	安安稳稳
 aaxx	安安心心
 aay	阿姨
@@ -18389,7 +18389,7 @@ ip	产品
 ipd	触碰到
 ipdc	触碰到
 ipdl	长篇大论
-ipdv	IP地址
+ipdv	IP 地址
 ipld	长篇累牍
 ipxu	长篇小说
 iq	重启
@@ -23693,7 +23693,7 @@ klmw	框
 klnj	矿难
 klo	旷
 klog	旷
-klok	卡拉OK
+klok	卡拉 OK
 klow	眶
 klpm	诓骗
 klq	狂
@@ -34786,7 +34786,7 @@ qqp	丘
 qqpa	丘
 qqpd	球拍
 qqpi	裘皮
-qqpy	QQ拼音
+qqpy	QQ 拼音
 qqq	邱
 qqqb	求亲
 qqqe	邱
@@ -46107,7 +46107,7 @@ vmz	这么早
 vmzc	这么早
 vmzy	装模作样
 vn	只能
-vna	智能ABC
+vna	智能 ABC
 vne	执牛耳
 vnej	知难而进
 vner	执牛耳
@@ -59245,7 +59245,7 @@ oftu	※
 oftu	〓
 oftu	＃
 oftu	＆
-oftu	＠
+oftu	@
 oftu	＼
 oftu	＾
 oftu	＿
@@ -59793,27 +59793,6 @@ oxy	雨
 oxz	再
 oxz	自
 oxz	子
-oyy	①
-oye	②
-oys	③
-oyd	④
-oyw	⑤
-oyl	⑥
-oyq	⑦
-oyb	⑧
-oyj	⑨
-oyu	⑩
-oyy	Ⅰ
-oye	Ⅱ
-oys	Ⅲ
-oyd	Ⅳ
-oyw	Ⅴ
-oyl	Ⅵ
-oyq	Ⅶ
-oyb	Ⅷ
-oyj	Ⅸ
-oyu	Ⅹ
-oz	“
 xhvy	https://flypy.com
 xhlt	https://bbs.flypy.com
 xhwp	http://flypy.ys168.com
