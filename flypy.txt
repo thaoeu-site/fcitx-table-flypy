@@ -1,5 +1,5 @@
 ;fcitx Version 0x03 Table file
-KeyCode=abcdefghijklmnopqrstuvwxyz;
+KeyCode=abcdefghijklmnopqrstuxy;',.
 Length=4
 Pinyin=@
 PinyinLength=4
@@ -180,7 +180,7 @@ aalr	阿婆
 aall	矮矮胖胖
 aa''	安安全全
 aayc	阿嚏
-aakc	AA制
+aakc	AA 制
 aa,,	安安稳稳
 aafc	阿姨
 aafa	啊呀
@@ -17813,7 +17813,7 @@ crpg	戳入
 crqy	辍学
 crfy	绰约
 clen	长篇大论
-clek	CL地址
+clek	CL 地址
 clqg	长篇小说
 clne	长篇累牍
 c'xx	乘其不备
@@ -23069,7 +23069,7 @@ tnnp	狂乱
 tnme	矿脉
 tnmi	克里姆林宫
 tnbh	矿难
-tnrt	卡拉RT
+tnrt	卡拉 RT
 tnlm	诓骗
 tn'l	况且
 tn'p	矿泉
@@ -44562,7 +44562,7 @@ kmfo	真没意思
 km;j	这么早
 km;f	装模作样
 kmkm	琢磨琢磨
-kba	智能AXJ
+kba	智能 AXJ
 kb.p	执牛耳
 kb.h	知难而进
 kb.y	知难而退
